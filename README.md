@@ -9,10 +9,10 @@
 <div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%;>
   <img height="" src=""/>
   <img height="80" src="https://i.ibb.co/d0Y49R2/java.png" />
-  <img height="80" src="https://i.ibb.co/6rJp4ZP/android.png" alt="Teste" />
+  <img height="80" src="https://i.ibb.co/6rJp4ZP/android.png" />
   <img height="80" src="https://i.ibb.co/WkbYQ53/html.png"/>
   <img height="80" src="https://i.ibb.co/2W8R5cj/css.png" />
-  <img height="80" src="https://i.ibb.co/d54z0Gs/androidstudio.png" alt="androidstudio" />
+  <img height="80" src="https://i.ibb.co/d54z0Gs/androidstudio.png" />
   <img height="80" src="https://i.ibb.co/stFfCTF/vscode.png" />
   <img height="80" src="https://i.ibb.co/DVCwK6B/mysql.png" />
 </div>
