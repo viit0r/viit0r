@@ -20,5 +20,5 @@
 <br/>
 
 ## Would you like to talk to me?
-  <img src="https://i.ibb.co/56Ggm7H/telegram.png" height="20"/> <a href="https://t.me/viit0r">My Telegram</a><br/>
+  <img src="https://i.ibb.co/56Ggm7H/telegram.png" height="20"/> <a href="https://t.me/viit0r">Telegram</a><br/>
   <img src="https://i.ibb.co/F3d3jvQ/linkedin.png" height="20" /> <a href="https://www.linkedin.com/in/vitor-oliveira-a48753189/">LinkedIn</a>
