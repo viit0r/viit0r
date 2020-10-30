@@ -1,4 +1,4 @@
-# Hello, you can call me Vitor!
+# Hello world, you can call me Vitor!
 
 ## I currently work as a technical support attendant and am a development lover with a focus on mobile and web!
 
