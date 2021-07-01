@@ -1,29 +1,38 @@
 # Hello world, you can call me Vitor!
 
-## Atualmente trabalho como atendente de suporte técnico e sou amante do desenvolvimento com foco em mobile e web!
-
-<br/>
+### Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por programação e tecnologia!
 
 ## Linguagens & Tecnologias
-  <code><img height="80" src="https://i.ibb.co/d0Y49R2/java.png" /></code>
-  <code><img height="80" src="https://i.ibb.co/6rJp4ZP/android.png" /></code>
-  <code><img height="80" src="https://i.ibb.co/WkbYQ53/html.png" /></code>
-  <code><img height="80" src="https://i.ibb.co/tJWCfHt/css1.png" /></code>
-
-## Tools & IDEs
-  <code><img height="80" src="https://i.ibb.co/d54z0Gs/androidstudio.png" /></code>
-  <code><img height="80" src="https://i.ibb.co/stFfCTF/vscode.png" /></code>
-  <code><img height="80" src="https://i.ibb.co/DVCwK6B/mysql.png" /></code>
-
-<br/>
-
-# Você gostaria de falar comigo?
-  <a href="https://t.me/viit0r"><img src="https://i.ibb.co/rf4d1rQ/telegram-pretoebranco2.png" alt="telegram-pretoebranco2" height="70"></a>
-  <a href="https://www.linkedin.com/in/vitor-oliveira-a48753189/"><img src="https://i.ibb.co/2s1HvHb/linkedin.png" alt="linkedin" height="70"></a>
-
-## Ou meu Linktree (link na bio ou QRCode)
-
-<a href="https://ibb.co/gMpK1cC"><img src="https://i.ibb.co/ccHn5sd/viit0r.png" alt="viit0r" height="300"></a>
-
-
+  <code><img height="70" src="https://i.ibb.co/X83NvWf/java.png" alt="java" /></code>
+  <img height="0" rc="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+  <code><img height="70" src="https://i.ibb.co/HTXxgZB/android.png" alt="android" /></code>
+  <img height="0" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+  <code><img height="70" src="https://i.ibb.co/SVhgK60/html.png" alt="html5" /></code>
+  <img height="0" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+  <code><img height="70" src="https://i.ibb.co/ygWJGDx/json.png" alt="json" /></code>
+  <img height="0" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+  <code><img height="70" src="https://i.ibb.co/gmcLnqf/spring.png" alt="spring" /></code>
+  <img height="0" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+ 
+  </br>
+  
+## Ferramentas & IDEs
+  <code><img height="70" src="https://i.ibb.co/fQHqmT8/androidstudio.png" /></code>
+  <img height="0" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+  <code><img height="70" src="https://i.ibb.co/XjhHkcL/vscode.png" /></code>
+  <img height="0" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+  <code><img height="70" src="https://i.ibb.co/Prv6nZn/mysql.png" /></code>
+  <img height="0" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+  <code><img height="70" src="https://i.ibb.co/P5PcrdJ/scrum.png" /></code>
+  <img height="0" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+  
+  </br>
+  
+## Quer falar comigo?
+  <code><a href="https://t.me/viit0r"><img height="70" src="https://i.ibb.co/3C0CM1J/telegram.png" alt="telegram" ></a></code>
+  <img height="0" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+  <code><a href="https://www.linkedin.com/in/viit0r/"><img height="70" src="https://i.ibb.co/rF6vZBd/linkedin.png" alt="linkedin" ></a></code>
+  <img height="0" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+  <code><a href="https://linktr.ee/viit0r"><img height="70" src="https://i.ibb.co/8DjkMnH/linktree.png" alt="linktree" ></a></code>
+  
 ⭐ <a href="https://github.com/viit0r">Vitor Oliveira</a>
