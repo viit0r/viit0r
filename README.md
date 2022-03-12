@@ -19,7 +19,6 @@
     <img width="5" rc="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href="https://developer.android.com/guide?hl=pt-br"><img height="45" src="https://i.ibb.co/HTXxgZB/android.png" alt="android" /></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
-
   </h3>
 </div>
 <div id="ferramentas-e-ides">
@@ -38,7 +37,6 @@
   </h3>
 </div>
 <div id="contato">
-  
   <h3>
     // Quer falar comigo? 📱<br><br>
     <a href="https://t.me/viit0r"><img height="45" src="https://i.ibb.co/3C0CM1J/telegram.png" alt="telegram" ></a>
@@ -48,4 +46,4 @@
     <a href="https://linktr.ee/viit0r"><img height="45" src="https://i.ibb.co/8DjkMnH/linktree.png" alt="linktree" ></a>
   </h3>
 </div>
-⭐ <a href="https://github.com/viit0r">Vitor Oliveira</a>
+⭐ <a href="https://linktr.ee/viit0r">Vitor Oliveira</a>
