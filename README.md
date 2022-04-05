@@ -24,16 +24,17 @@
 <div id="ferramentas-e-ides">
   <h3>
     // Tools & IDEs 🔧<br><br>
-    <img height="45" src="https://i.ibb.co/fQHqmT8/androidstudio.png" />
+    <a href="https://developer.android.com/studio"><img height="45" src="https://i.ibb.co/fQHqmT8/androidstudio.png" /></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
-    <img height="45" src="https://i.ibb.co/XjhHkcL/vscode.png" />
+    <a href="https://code.visualstudio.com/"><img height="45" src="https://i.ibb.co/XjhHkcL/vscode.png" /></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
-    <img height="45" src="https://i.ibb.co/McCHLJX/netbeans.png" />
+    <a href="https://netbeans.apache.org/download/index.html"><img height="45" src="https://i.ibb.co/McCHLJX/netbeans.png" /></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
-    <img height="45" src="https://i.ibb.co/Prv6nZn/mysql.png" />
+    <a href="https://www.mysql.com/"><img height="45" src="https://i.ibb.co/Prv6nZn/mysql.png" /></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
-    <img height="45" src="https://i.ibb.co/P5PcrdJ/scrum.png" />
+    <a href="https://www.scrum.org/"><img height="45" src="https://i.ibb.co/P5PcrdJ/scrum.png" /></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+    <a href="https://www.clickup.com/"><img height="45" src="https://i.ibb.co/zJjyTXz/clickup.png" /></a>
   </h3>
 </div>
 <div id="contato">
