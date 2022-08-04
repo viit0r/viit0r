@@ -19,9 +19,10 @@
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height="45" src="https://i.ibb.co/QpBV5fX/javascript.png" alt="Javascript"/></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
-    <a href="https://br.vuejs.org/v2/guide/index.html"><img height="45" src="https://i.ibb.co/gV0gLx8/vuejs.png" alt="VueJS" /></a>
-    <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
-    
+    <a href="https://br.vuejs.org/v2/guide/index.html"><img height="45" src="https://i.ibb.co/gV0gLx8/vuejs.png" alt="VueJS" /></a><br>
+    <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" /><br>
+    <img width="10" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viit0r&layout=compact&theme=apprentice" />
   </h3>
 </div>
 <div id="ferramentas-e-ides">
