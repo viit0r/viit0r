@@ -1,12 +1,12 @@
 <div id="apresentacao">
   <h3>
-    < Hello world! <img height="50" src="https://i.ibb.co/LdNSFhk/bmo.gif" /> <br><br>
-    I'm Vitor, have 20 years old, I'm a Analysis and systems development student and passionate for programming and technology! />
+    < Olá, mundo! <img height="50" src="https://i.ibb.co/LdNSFhk/bmo.gif" /> <br><br>
+    Sou Vitor, tenho 20 anos, sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor mobile nativo! />
   </h3>
 </div>
 <div id="lingugens-e-tecnologias">
   <h3>
-    // Languages & Technologies 👨🏽‍💻 <br><br>
+    // Linguagens & Tecnologias 👨🏽‍💻 <br><br>
     <a href="https://kotlinlang.org/"><img height="45" src="https://i.ibb.co/dfkjSWR/kotlin.png" alt="Kotlin Logo"/></a>
     <img width="5" rc="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href=https://www.oracle.com/br/java/technologies/javase-jdk8-doc-downloads.html""><img height="45" src="https://i.ibb.co/X83NvWf/java.png" alt="Java" /></a>
@@ -27,7 +27,7 @@
 </div>
 <div id="ferramentas-e-ides">
   <h3>
-    // Tools & IDEs 🔧<br><br>
+    // Ferramentas & IDEs 🔧<br><br>
     <a href="https://developer.android.com/studio"><img height="45" src="https://i.ibb.co/fQHqmT8/androidstudio.png" alt="Android Studio Logo"/></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href="https://www.jetbrains.com/pt-br/idea/"><img height="45" src="https://i.ibb.co/L8TMRZ3/intellij.png" alt="IntelliJ Logo"/></a>
@@ -47,7 +47,7 @@
 </div>
 <div id="contato">
   <h3>
-    // Contact me 📱<br><br>
+    // Fale comigo 📱<br><br>
     <a href="https://t.me/viit0r"><img height="45" src="https://i.ibb.co/3C0CM1J/telegram.png" alt="Telegram" ></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href="https://www.linkedin.com/in/viit0r/"><img height="45" src="https://i.ibb.co/rF6vZBd/linkedin.png" alt="Linkedin" ></a>
