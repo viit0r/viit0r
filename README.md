@@ -1,6 +1,6 @@
 <div id="apresentacao">
   <h3>
-    < Olá, mundo! <img height="50" src="https://i.ibb.co/LdNSFhk/bmo.gif" /> <br><br>
+    < Olá, mundo! <img height="50" width="50" src="https://i.ibb.co/LdNSFhk/bmo.gif" /> <br><br>
     Sou Vitor, tenho 20 anos, sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor mobile nativo! />
   </h3>
 </div>
