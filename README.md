@@ -1,12 +1,12 @@
 <div id="apresentacao">
   <h3>
-    < Olá, mundo! <img height="50" width="50" src="https://i.ibb.co/LdNSFhk/bmo.gif" /> <br><br>
-    Sou Vitor, tenho 20 anos, sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor mobile nativo! />
+    Olá, mundo! <img height="50" width="50" src="https://i.ibb.co/LdNSFhk/bmo.gif" /> <br><br>
+    Sou Vitor, tenho 20 anos, sou analista de sistemas e desenvolvedor Java!
   </h3>
 </div>
 <div id="lingugens-e-tecnologias">
   <h3>
-    // Linguagens & Tecnologias 👨🏽‍💻 <br><br>
+    Linguagens & Tecnologias 👨🏽‍💻 <br><br>
     <a href=https://www.oracle.com/br/java/technologies/javase-jdk8-doc-downloads.html""><img height="45" src="https://i.ibb.co/X83NvWf/java.png" alt="Java" /></a>
     <img width="5" rc="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href="https://developer.android.com/guide?hl=pt-br"><img height="45" src="https://i.ibb.co/HTXxgZB/android.png" alt="Android" /></a>
@@ -15,15 +15,13 @@
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height="45" src="https://i.ibb.co/3hykCCy/css.png" alt="html5" /></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
-    <a href="https://br.vuejs.org/v2/guide/index.html"><img height="45" src="https://i.ibb.co/gV0gLx8/vuejs.png" alt="VueJS" /></a>
-    <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href="https://www.mysql.com/"><img height="45" src="https://i.ibb.co/Prv6nZn/mysql.png" alt="MySQL Logo"/></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
   </h3>
 </div>
 <div id="ferramentas-e-ides">
   <h3>
-    // Ferramentas & IDEs 🔧<br><br>
+    Ferramentas & IDEs 🔧<br><br>
     <a href="https://developer.android.com/studio"><img height="45" src="https://i.ibb.co/fQHqmT8/androidstudio.png" alt="Android Studio Logo"/></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href="https://www.jetbrains.com/pt-br/idea/"><img height="45" src="https://i.ibb.co/L8TMRZ3/intellij.png" alt="IntelliJ Logo"/></a>
@@ -41,7 +39,7 @@
 </div>
 <div id="contato">
   <h3>
-    // Fale comigo 📱<br><br>
+    Fale comigo 📱<br><br>
     <a href="https://t.me/viit0r"><img height="45" src="https://i.ibb.co/3C0CM1J/telegram.png" alt="Telegram" ></a>
     <img width="5" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href="https://www.linkedin.com/in/viit0r/"><img height="45" src="https://i.ibb.co/rF6vZBd/linkedin.png" alt="Linkedin" ></a>
