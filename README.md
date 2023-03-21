@@ -41,4 +41,4 @@
     <a href="https://linktr.ee/viit0r"><img height="37" src="https://i.ibb.co/8DjkMnH/linktree.png" alt="Linktree" ></a>
   </h3>
 </div>
-<div align="center">⭐ <a href="https://linktr.ee/viit0r">Vitor Oliveira</a></div>
+<div align="center">⭐ <a href="https://linktr.ee/viit0r"><em>Vitor Oliveira</em></a></div>
