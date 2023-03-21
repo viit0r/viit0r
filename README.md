@@ -13,6 +13,8 @@
     <img width="10" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href="https://www.mysql.com/"><img height="37" src="https://i.ibb.co/Prv6nZn/mysql.png" alt="MySQL Logo"/></a>
     <img width="10" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
+    <a href="https://www.postman.com/"><img height="37" src="https://i.ibb.co/D4jDRTG/postman.png" alt="Postman"></a>
+    <img width="10" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href="https://developer.android.com/studio"><img height="37" src="https://i.ibb.co/fQHqmT8/androidstudio.png" alt="Android Studio Logo"/></a>
     <img width="10" src="https://i.ibb.co/y8LQ5Pw/transparent.png" />
     <a href="https://www.jetbrains.com/pt-br/idea/"><img height="37" src="https://i.ibb.co/L8TMRZ3/intellij.png" alt="IntelliJ Logo"/></a>
