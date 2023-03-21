@@ -1,7 +1,6 @@
 ### <div align="center"> Olá, mundo! 👋🏼</div>
 ### <div align="center">Sou o Vitor, tenho 21 anos, sou analista de sistemas e desenvolvedor Java ☕</div>
 
-<br>
 
 ### <div align="center">Linguagens, tecnologias e ferramentas 👨🏽‍💻</div>
 <div align="center">
@@ -30,7 +29,6 @@
   </h3>
 </div>
 
-<br>
 
 ### <div align="center">Fale comigo 📱</div>
 
